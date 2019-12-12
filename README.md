@@ -1,4 +1,4 @@
-## ISMB 2019 Tutorial on "Recent Advances in Statistical Methods and Computational Algorithms for Single-Cell Omics Analysis"
+## ISMB 2020 Tutorial on "Recent Advances in Statistical Methods and Computational Algorithms for Single-Cell Omics Analysis"
 
 This tutorial is focused on advanced statistical and computational methods that are recently developed for 
 single-cell omics data. It is intended for an audience with genomics/computational background, who are
@@ -8,15 +8,17 @@ All tutorial materials and extra links are provided here.
 
 ### Schedule
 
-Official schedule for this tutorial can be found [here](https://www.iscb.org/ismbeccb2019-program/tutorials#am2).
+Official schedule for this tutorial from 2019 can be found [here](https://www.iscb.org/ismbeccb2019-program/tutorials#am2).
 
 ### Course Instructors (equal contributors; alphabetical order)
 
-Rhonda Bacher, University of Florida, rbacher@ufl.edu
+Rhonda Bacher, Assistant Professor, Department of Biostatistics, University of Florida, rbacher@ufl.edu
 
-Yuchao Jiang, University of North Carolina-Chapel Hill, yuchaoj@email.unc.edu
+Yuchao Jiang, Assistant Professor, Department of Biostatistics, University of North Carolina at Chapel Hill, yuchaoj@email.unc.edu
 
-Jingshu Wang, University of Chicago, wangjingshususan@gmail.com
+Keegan Korthauer, Assistant Professor, Department of Statistics, University of British Columbia, keegan@stat.ubc.ca
+
+Jingshu Wang, Assistant Professor, Department of Statistics, University of Chicago, jingshuw@galton.uchicago.edu
 
 Please contact any of us regarding comments or questions.
 

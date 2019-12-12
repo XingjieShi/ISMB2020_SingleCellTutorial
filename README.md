@@ -22,11 +22,6 @@ Official schedule for this tutorial from 2019 can be found [here](https://www.is
 
 Please contact any of us regarding comments or questions.
 
-### Tutorial Feedback
-
-If you attend our tutorial at ISMB 2019, please provide feedback via this survery:
-https://goo.gl/forms/0sR1kfVO6nj4X8bO2
-
 
 ### Slides
 

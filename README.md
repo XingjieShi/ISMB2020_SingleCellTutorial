@@ -12,13 +12,13 @@ Official schedule for this tutorial from 2019 can be found [here](https://www.is
 
 ### Course Instructors (equal contributors; alphabetical order)
 
-Rhonda Bacher, Assistant Professor, Department of Biostatistics, University of Florida, rbacher@ufl.edu
+* Rhonda Bacher, Assistant Professor, Department of Biostatistics, University of Florida, rbacher@ufl.edu
 
-Yuchao Jiang, Assistant Professor, Department of Biostatistics, University of North Carolina at Chapel Hill, yuchaoj@email.unc.edu
+* Yuchao Jiang, Assistant Professor, Department of Biostatistics, University of North Carolina at Chapel Hill, yuchaoj@email.unc.edu
 
-Keegan Korthauer, Assistant Professor, Department of Statistics, University of British Columbia, keegan@stat.ubc.ca
+* Keegan Korthauer, Assistant Professor, Department of Statistics, University of British Columbia, keegan@stat.ubc.ca
 
-Jingshu Wang, Assistant Professor, Department of Statistics, University of Chicago, jingshuw@galton.uchicago.edu
+* Jingshu Wang, Assistant Professor, Department of Statistics, University of Chicago, jingshuw@galton.uchicago.edu
 
 Please contact any of us regarding comments or questions.
 

@@ -1,8 +1,6 @@
-## ISMB 2020 Tutorial on "Recent Advances in Statistical Methods and Computational Algorithms for Single-Cell Omics Analysis"
+## ISMB 2020 Tutorial on "The Art of Analyzing Single-Cell Omics Data: From Computational Methods to Hands-on Applications"
 
-This tutorial is focused on advanced statistical and computational methods that are recently developed for 
-single-cell omics data. It is intended for an audience with genomics/computational background, who are
-interested in cutting-edge developments of single-cell research, including both method development and application. 
+Single-cell genomics is the study of individual cells using omics approaches, which circumvents averaging artifacts associated with traditional bulk population data and yields new insights into cellular heterogeneity. The field has seen rapid development in both technologies and statistical methods and computational algorithms, leading to improved data analysis. This tutorial is focused on statistical and computational methods that are recently developed for single-cell omics data. This full day session will be broken up into four blocks, where in each block the participants will first learn about the analytic concepts and methodology, and then learn to apply these techniques in a hands-on coding session. The morning session will include a brief introduction, followed by “generalized” methods and workflows for scRNA-seq data, including data normalization, visualization, batch correction, clustering, and denoising. The afternoon session will be on “specific” topics and applications in the single-cell domain, including pseudotime reconstruction, differential expression, complementary techniques (epigenomic and DNA sequencing) to single-cell RNA-seq, multimodal alignment of single-cell transcriptomic and epigenomic data, as well as single-cell inference of tumor heterogeneity.
 
 All tutorial materials and extra links are provided here.
 
@@ -23,7 +21,7 @@ Official schedule for this tutorial from 2019 can be found [here](https://www.is
 Please contact any of us regarding comments or questions.
 
 
-### Slides
+### Slides from 2019
 
 * [Introduction to Single-Cell RNA-seq and Pre-processing](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/1_introduction.pdf)
 
